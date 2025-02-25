@@ -5,7 +5,7 @@ import words
 
 def get_word():
     
-    with open('/GeeksforGeeks/Hangman/words.txt', 'r') as f:
+    with open(/Hangman/words.txt', 'r') as f:
         
         words1 = f.read().splitlines()
         
